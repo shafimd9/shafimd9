@@ -1,16 +1,24 @@
-### Hi there 👋
+![logo](https://plopdo.com/wp-content/uploads/2022/05/cover-photo-of-data-analyst-1210x642.jpg?crop=1)
+<img align="right" alt ="analyst" width="400" src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/200.webp?cid=ecf05e47zxshtvuglqq1yo98vc8ycuggjt0bec5cyxi06mwm&rid=200.webp&ct=g">
 
-<!--
-**shafimd9/shafimd9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm MOHAMMED SHAFI</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently Practicing **SQL, Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://github.com/shafimd9?tab=projects](https://github.com/shafimd9?tab=projects)
+
+- 📫 How to reach me **shafimd9990@gmail.com**
+
+- ⚡ Fun fact **I am workaholic**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafimd9&show_icons=true&locale=en&layout=compact" alt="shafimd9" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shafimd9&show_icons=true&locale=en" alt="shafimd9" /></p>
