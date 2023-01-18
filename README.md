@@ -1,4 +1,5 @@
-![logo](https://plopdo.com/wp-content/uploads/2022/05/cover-photo-of-data-analyst-1210x642.jpg?crop=1)
+<img align="center" alt ="data" width="1600" src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/data_inform_illustration_animation.gif">
+
 <img align="right" alt ="analyst" width="400" src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/200.webp?cid=ecf05e47zxshtvuglqq1yo98vc8ycuggjt0bec5cyxi06mwm&rid=200.webp&ct=g">
 
 <h1 align="center">Hi 👋, I'm MOHAMMED SHAFI</h1>
