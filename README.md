@@ -1,4 +1,4 @@
-<img align="center" alt ="data" width="1600" src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/data_inform_illustration_animation.gif">
+![logo](https://cdn.uarizonabootcamp.com/wp-content/uploads/sites/56/2020/07/tes_dta_blog_image_8-850x412.jpg)
 
 <img align="right" alt ="analyst" width="400" src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/200.webp?cid=ecf05e47zxshtvuglqq1yo98vc8ycuggjt0bec5cyxi06mwm&rid=200.webp&ct=g">
 
