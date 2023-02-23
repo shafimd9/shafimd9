@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm MOHAMMED SHAFI</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🌱 I’m currently Practicing **SQL, Python**
+- 🌱 SKILLS known to me are **SQL, Microsoft Excel**, Microsoft Power BI**, Python**, Talend ETL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shafimd9?tab=projects](https://github.com/shafimd9?tab=projects)
 
-- 📫 How to reach me **shafimd9990@gmail.com**
+- 📫 You can reach me @ **shafimd9990@gmail.com**
 
 - ⚡ Fun fact **I am workaholic**
 
