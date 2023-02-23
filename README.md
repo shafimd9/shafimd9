@@ -1,6 +1,3 @@
-![logo](https://cdn.uarizonabootcamp.com/wp-content/uploads/sites/56/2020/07/tes_dta_blog_image_8-850x412.jpg)
-
-<img align="right" alt ="analyst" width="400" src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/200.webp?cid=ecf05e47zxshtvuglqq1yo98vc8ycuggjt0bec5cyxi06mwm&rid=200.webp&ct=g">
 
 <h1 align="center">Hi 👋, I'm MOHAMMED SHAFI</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
