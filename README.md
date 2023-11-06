@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm MOHAMMED SHAFI</h1>
 <h3 align="center">A passionate Power BI Developer from India</h3>
 
-- 🌱 SKILLS Known:  **SQL, Microsoft Power BI**,Microsoft Excel**,  Python**, Power Query**,Data Visualization**
+- 🌱 SKILLS Known:  **SQL, Microsoft Power BI**, Microsoft Excel**, Python**, Power Query**, Data Visualization**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shafimd9?tab=projects](https://github.com/shafimd9?tab=projects)
 
